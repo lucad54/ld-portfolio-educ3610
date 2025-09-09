@@ -12,9 +12,7 @@ credits: false
 
 {% include feature/nav-menu.html sections="Description;Transcript;Links;Acknowledgments;References" %}
 
-## Description
-
-This is a collection of reflections completed for EDUC3610.
+## This is a collection of reflections completed for EDUC3610
 
 ## Reflection 1 - Deploying My Website
 
