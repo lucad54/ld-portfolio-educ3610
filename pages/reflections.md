@@ -16,6 +16,9 @@ credits: false
 
 ## Reflection 1 - Deploying My Website
 
+This week's activity of starting up a website brought back some memories from a previous History course I took during my undergraduate. After reading the instructions and seeing the options for website builders, I began planning out what I was going to do and I turned to what I used before, Github. I quickly realized that working with GitHub again was going to be much more challenging than using a simpler drag-and-drop platform like Wix. Even though I have used Github in the past, enough time had passed that I also knew I had forgotten many of the basics. 
+
+As I began to develop my website, I quickly encountered a number of problems. From random small errors to bigger problems like my webpage “not-exsiting” (as seen in the picture below). At first, this created a sense of frustration, especially when I couldn’t remember simple commands or how to find and fix problems in my repository. However, instead of giving up, I remember that I had held onto an old worksheet from my earlier history course where I had first learned GitHub. After I, luckily, found the instructions and gave them a quick read through it all slowly started to come back to me. 
 
 {% include feature/image.html objectid="error404" %}
 
