@@ -8,7 +8,7 @@ credits: false
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="background" %}
+{% include feature/jumbotron.html objectid="background01" %}
 
 {% include feature/nav-menu.html sections="Description;Reflections;Links;References" %}
 
@@ -20,7 +20,7 @@ This week's activity of starting up a website brought back some memories from a 
 
 As I began to develop my website, I quickly encountered a number of problems. From random small errors to bigger problems like my webpage “not-exsiting” (as seen in the picture below). At first, this created a sense of frustration, especially when I couldn’t remember simple commands or how to find and fix problems in my repository. However, instead of giving up, I remember that I had held onto an old worksheet from my earlier history course where I had first learned GitHub. After I, luckily, found the instructions and gave them a quick read through it all slowly started to come back to me. 
 
-{% include feature/image.html objectid="error404" %}
+{% include feature/image.html objectid="proof01" %}
 
 
 ## Links
