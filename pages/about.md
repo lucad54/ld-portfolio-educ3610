@@ -14,7 +14,7 @@ credits: false
 
 ## Description
 
-This is a Website for the work done in/for EDUC3610.
+A Website built for the work done for EDUC3610.
 
 
 ## Links
