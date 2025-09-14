@@ -4,5 +4,5 @@ proof01,,error404.jpg,,github Error 404,image/jpeg,"Screenshot of the pop up err
 proof02,,collection.jpg,,CollectionBuilder,image/jpeg,Screenshot of the notes used to re-learn github.,Luca D'Angelo,,2025,yes,photographs,EDUC; ,"Vaughan, Ontario",,,,,,,,,,Image;StillImage,eng,
 ,,,,,image/jpeg,,,,,,photographs,,,,,,,,,,,,Image;StillImage,eng,
 ,,,,,,,,,,,photographs,,,,,,,,,,,,,,
-remotePDF,,1924-son.pdf,,Son of Italy,application/pdf,"The original, 1924 New York, The Macmillan Company, publication of Son of Italy by Pascal D'Angelo.", The Library of Congress,,1924,,book,,,,,,,,,, The Library of Congress,, Text; pdf,eng,
-remotePDF1,,poems-pascal.pdf,,The Collected Poems Published by Pascal D'Angelo,application/pdf,This pdf holds most if not all of the surviving pieces of Pascal D'Angelo's publications during his life.,VIA,,1922-1932,yes,collection,,,,,,,,,,VIA,, Text; pdf,eng,
+remotePDF,,1924-son.pdf,,Son of Italy,application/pdf,,,,,,book,,,,,,,,,, The Library of Congress,, Text; pdf,eng,
+remotePDF1,,poems-pascal.pdf,,The Collected Poems Published by Pascal D'Angelo,application/pdf,,,,,,collection,,,,,,,,,,VIA,, Text; pdf,eng,
