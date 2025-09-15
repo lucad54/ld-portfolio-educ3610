@@ -14,7 +14,7 @@ credits: false
 
 ## Description
 
-A website built around the work done for EDUC3610.
+A website built around the work done for EDUC3610. Displaying my engagement with the course,my learning and the ideas I’ve developed along the way.
 
 
 ## Links
