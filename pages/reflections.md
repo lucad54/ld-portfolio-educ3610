@@ -1,7 +1,7 @@
 ---
-title: Reflections
+title: Intellectual Productions
 layout: about
-permalink: /reflections.html
+permalink: /productions.html
 # include CollectionBuilder info at bottom
 credits: false
 # Edit the markdown on in this file to describe your collection
@@ -10,11 +10,11 @@ credits: false
 
 {% include feature/jumbotron.html objectid="background01" %}
 
-{% include feature/nav-menu.html sections="Description;Reflections;Links;References" %}
+{% include feature/nav-menu.html sections="Description;Links;References" %}
 
-## A Collection of Reflections 
+## A Collection of Weekly Intellectual Productions
 
-## Reflection 1 - Deploying My Website
+## Production 1 - Refelction on Deploying My Website
 
 This week's activity of starting up a website brought back some memories from a previous History course I took during my undergraduate. After reading the instructions and seeing the options for website builders, I began planning out what I was going to do and I turned to what I used before, Github. I quickly realized that working with GitHub again was going to be much more challenging than using a simpler drag-and-drop platform like Wix. Even though I have used Github in the past, enough time had passed that I also knew I had forgotten many of the basics. 
 
