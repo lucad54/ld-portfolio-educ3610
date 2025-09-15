@@ -1,7 +1,7 @@
 objectid,parentid,filename,youtubeid,title,format,description,creator,recipient,date,date-is-approximate?,item_information,subject,location,latitude,longitude,related_publication,publisher-digital,findingaid,original-identifier,identifier,rights,rightsstatement,type,language,relation
 background01,,background.jpg,,Background,image/jpeg,,,,,yes,photographs,EDUC; ,,,,,,,,,,,Image;StillImage,eng,
 proof01,,error404.jpg,,github Error 404,image/jpeg,"Screenshot of the pop up error 404 when first trying to ""deploy"" the website.",Luca D'Angelo,,2025,yes,photographs,EDUC; ,"Vaughan, Ontario",,,,,,,,,,Image;StillImage,eng,
-proof02,,collection.jpg,,CollectionBuilder,image/jpeg,Screenshot of the notes used to re-learn github.,Luca D'Angelo,,2025,yes,photographs,EDUC; ,"Vaughan, Ontario",,,,,,,,,,Image;StillImage,eng,
+proof02,,collection.jpg,,CollectionBuilder Tutorial,image/jpeg,Screenshot of the notes used to re-learn github.,Luca D'Angelo,,2025,yes,photographs,EDUC; ,"Vaughan, Ontario",,,,,,,,,,Image;StillImage,eng,
 ,,,,,image/jpeg,,,,,,photographs,,,,,,,,,,,,Image;StillImage,eng,
 ,,,,,,,,,,,photographs,,,,,,,,,,,,,,
 remotePDF,,.pdf,,,application/pdf,,,,,,book,,,,,,,,,, The Library of Congress,, Text; pdf,eng,
