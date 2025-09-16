@@ -29,10 +29,6 @@ I began shifting from frustration to satisfaction, yet these “problems” remi
 Finally, this experience felt very similar to a classroom. It especially reminded me of the first day of grade 10 high school math after not having done any math since the previous year’s first semester. It was also similar because I was pushed to look at course material to re-learn and guide me, something I have not had to do in a long time. Overall, my experience of frustration did end up being rewarding, with my persistence to “power up” my new website on GitHub reminding me that learning never ends.
 
 
-## Links
-The following links and resources were referred to in in the podcast audio:
-
-1. This sample site is based on [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/).
 
 
 ## References
