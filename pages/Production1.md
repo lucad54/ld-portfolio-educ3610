@@ -1,7 +1,7 @@
 ---
 title: Intellectual Productions
 layout: about
-permalink: /productions.html
+permalink: /production1.html
 # include CollectionBuilder info at bottom
 credits: false
 # Edit the markdown on in this file to describe your collection
@@ -11,8 +11,6 @@ credits: false
 {% include feature/jumbotron.html objectid="background01" %}
 
 {% include feature/nav-menu.html sections="Description;Links;References" %}
-
-## A Collection of Weekly Intellectual Productions
 
 ## Production 1 - Refelction on Deploying My Website
 
