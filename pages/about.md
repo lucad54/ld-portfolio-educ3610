@@ -12,10 +12,13 @@ credits: false
 
 {% include feature/nav-menu.html sections="Description;Links;Acknowledgments" %}
 
+## About Me
+
+Hi my name is Luca D'Angelo, I am in my 5th year of school going into my first year of Teacher's College. I hope to teach in the Intermediate and Senior sections of schools, teaching either history or geography@
+
 ## Description
 
 A website built around the work done for EDUC3610. Displaying my engagement with the course,my learning and the ideas I’ve developed along the way.
-
 
 ## Links
 The following links and resources were referred to in in the podcast audio:
