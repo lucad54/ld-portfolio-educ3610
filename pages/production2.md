@@ -33,7 +33,7 @@ Brayboy & Maughan (2009). Indigenous Knowledge and the Story of the Bean, *Harva
 CBC Radio. (2018, May 10). *Indigenous virtual reality: An experiment in indigenization of cyberspace.* CBC. [https://www.cbc.ca/radio/unreserved/from-soapstone-carving-to-second-life-indigenous-peoples-in-quebec-embrace-tradition-and-technology-1.4645198/indigenous-virtual-reality-an-experiment-in-indigenization-of-cyberspace-1.4654306](https://www.cbc.ca/radio/unreserved/from-soapstone-carving-to-second-life-indigenous-peoples-in-quebec-embrace-tradition-and-technology-1.4645198/indigenous-virtual-reality-an-experiment-in-indigenization-of-cyberspace-1.46543060)
 
 
-Kanaeokana. (2017, September 27). *He Ao Hou: A New World*. Vimeo. [https://vimeo.com/235846251[https://vimeo.com/235846251](https://vimeo.com/235846251[https://vimeo.com/235846251)
+Kanaeokana. (2017, September 27). *He Ao Hou: A New World*. Vimeo. [https://vimeo.com/235846251](https://vimeo.com/235846251[https://vimeo.com/235846251)
 
 
 
