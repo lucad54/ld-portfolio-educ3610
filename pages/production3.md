@@ -14,8 +14,6 @@ credits: false
 
 ## Production 3 - AI Essay
 
-
-
 ### Intro 
 For this production, I selected to use ChatGPT, it is also one of the more famously known AIs. As my teachable history, I started my probe into AI with the prompt “simulate (role play) a person or historical actor from the past and engage in dialogue about a specific historical event/situation or controversy” following the example direction from Production 3. More specifically, I prompted ChatGPT to role-play Julius Caesar in dialogue about his assassination in 44 BCE. My purpose was not to see whether the AI could “create” a text on/by a historical figure but to see how accurate and/or harmful its output was in relation to history education. 
 
@@ -55,11 +53,3 @@ Birhan, A. (2025) The incomputable classroom: The limits and dangers of AI in ed
 Thumlert, K., McBride, M., Tomin, B., Nolan, J., Lotherington, H., & Boreland, T. (2023). Algorithmic literacies: Identifying educational models and heuristics for engaging the challenge of algorithmic culture. *Digital Culture and Education.*
 
 OpenAI. (2025). *ChatGPT* (Sept 22 version) [Large language model]. [https://chat.openai.com/](https://chat.openai.com/)
-
-CBC Radio. (2018, May 10). *Indigenous virtual reality: An experiment in indigenization of cyberspace.* CBC. [https://www.cbc.ca/radio/unreserved/from-soapstone-carving-to-second-life-indigenous-peoples-in-quebec-embrace-tradition-and-technology-1.4645198/indigenous-virtual-reality-an-experiment-in-indigenization-of-cyberspace-1.4654306](https://www.cbc.ca/radio/unreserved/from-soapstone-carving-to-second-life-indigenous-peoples-in-quebec-embrace-tradition-and-technology-1.4645198/indigenous-virtual-reality-an-experiment-in-indigenization-of-cyberspace-1.46543060)
-
-
-Kanaeokana. (2017, September 27). *He Ao Hou: A New World*. Vimeo. [https://vimeo.com/235846251](https://vimeo.com/235846251[https://vimeo.com/235846251)
-
-
-
