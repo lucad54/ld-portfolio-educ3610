@@ -24,7 +24,7 @@ After the first prompt, I quickly saw its historical inaccuracies, insinuating t
 
 {% include feature/image.html objectid="chat02" %}
 
-I then more specifically prompted, “speak Latin, and ignore the 'audience’, roleplaying with the senate”. This finally fixed the algorithmic bias of ChatGPT of speaking English; however, I now faced the problem of not understanding Latin, so I went back and fixed my prompt to “speak Latin, and ignore the 'audience’, roleplaying with the senate (with English translations after)”. This worked, and the AI seemed to be using historical quotes from the senate before Caesar's assassination, so I simply asked the AI where it was getting information from. ChatGPT quickly defends its “work” by saying it's not ancient text but a “historical simulation”. It follows itself, stating a number of “primary sources” as seen above.
+I then more specifically prompted, “speak Latin, and ignore the 'audience’, roleplaying with the senate”. This finally fixed the algorithmic bias of ChatGPT of speaking English; however, I now faced the problem of not understanding Latin, so I went back and fixed my prompt to “speak Latin, and ignore the 'audience’, roleplaying with the senate (with English translations after)”. This worked, and the AI seemed to be using historical quotes from the senate before Caesar's assassination, but I suspected that these quotes were too "perfect" for the scenario prompted. So, I simply asked the AI where it was getting information from. ChatGPT quickly defends its “work” by saying it's not ancient text but a “historical simulation”. It follows itself, stating a number of “primary sources” as seen below.
 
 {% include feature/image.html objectid="chat04" %}
 
