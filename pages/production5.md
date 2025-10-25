@@ -34,7 +34,7 @@ Finally, throughout the editing process, I learned more and more, but also avoid
 
 {% include feature/image.html objectid="proof0" %}
 
-To conclude, this production reveals how one can “combine various modes of expression (visuals, sound, narrative, etc.) into a single digital media text with focus and purpose” (Doerr-Stevens, 56). Playing around with iMovie again after so many years was not only a great technical refresher but also helped me learn new techniques as I connected to my groups and the Professor’s ideation decks. Overall, iMovie, even with its limits and restrictive rules and templates, worked great for me (a beginner) and is a great tool for students to critically assemble, create, and represent the past using multimedia.
+To conclude, this production reveals how one can “combine various modes of expression (visuals, sound, narrative, etc.) into a single digital media text with focus and purpose” (Doerr-Stevens, 56). Playing around with iMovie again after so many years was not only a great technical refresher but also helped me learn new techniques as I connected to my groups and the Professor’s ideation decks. Overall, iMovie, even with its limits and lack of guidance, worked great for me (a beginner) and can be a great tool for students to critically assemble, create, and represent the past using multimedia.
 
 ## Links
 
