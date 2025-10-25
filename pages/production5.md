@@ -10,9 +10,9 @@ credits: false
 
 {% include feature/jumbotron.html objectid="background01" %}
 
-{% include feature/nav-menu.html sections="Description;Links;References" %}
+{% include feature/nav-menu.html sections="Production 5 - On the Way to Video Inquiry;Links;References" %}
 
-## Production 5 - Refelction on Video Making
+## Production 5 - On the Way to Video Inquiry
 
 In class, we started by using ideation decks to begin learning about the theories, techniques, themes, and editing of filmmaking. This was exciting and fun, and I am keeping this with me as I move forward working on Production 5. For Production 5: *On the Way to Video Inquiry*, I decided to use iMovie, a program I had some familiarity with before today, but had not used or explored for quite some time. Returning to it was challenging but familiar, but I stayed strong as I wanted to deepen my understanding of its editing tools and reimagine it for how such software could be used in historical education in the classroom. To test this, I created a short but heavily edited sideshow-style documentary titled “The History of the Land We Live On”. As the text states, “documentary DV promotes empowered practices of critical media literacy essential for navigating an increasingly digital yet culturally divided world” (Doerr-Stevens, p. 61). This experiment reveals how iMovie’s potential to make progress and allow for digital storytelling can make history more engaging, accessible, and multimodal for classes and students. 
 
@@ -36,7 +36,9 @@ Finally, throughout the editing process, I learned more and more, but also avoid
 
 To conclude, this production reveals how one can “combine various modes of expression (visuals, sound, narrative, etc.) into a single digital media text with focus and purpose” (Doerr-Stevens, 56). Playing around with iMovie again after so many years was not only a great technical refresher but also helped me learn new techniques as I connected to my groups and the Professor’s ideation decks. Overall, iMovie, even with its limits and restrictive rules and templates, worked great for me (a beginner) and is a great tool for students to critically assemble, create, and represent the past using multimedia.
 
+## Links
 
+Jordan Morrison's Youtube Tutorial on iMovie: (https://www.youtube.com/watch?v=z6hwAJ-3mCE)[https://www.youtube.com/watch?v=z6hwAJ-3mCE]
 
 ## References
 
