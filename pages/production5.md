@@ -38,7 +38,7 @@ To conclude, this production reveals how one can “combine various modes of exp
 
 ## Links
 
-Jordan Morrison's Youtube Tutorial on iMovie: (https://www.youtube.com/watch?v=z6hwAJ-3mCE)[https://www.youtube.com/watch?v=z6hwAJ-3mCE]
+Jordan Morrison's Youtube Tutorial on iMovie: [https://www.youtube.com/watch?v=z6hwAJ-3mCE](https://www.youtube.com/watch?v=z6hwAJ-3mCE)
 
 ## References
 
