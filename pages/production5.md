@@ -38,10 +38,12 @@ To conclude, this production reveals how one can “combine various modes of exp
 
 ## Links
 
+Thinking Through Making - Ingold: [https://www.youtube.com/watch?v=Ygne72-4zyo](https://www.youtube.com/watch?v=Ygne72-4zyo)
+
 Jordan Morrison's Youtube Tutorial on iMovie: [https://www.youtube.com/watch?v=z6hwAJ-3mCE](https://www.youtube.com/watch?v=z6hwAJ-3mCE)
 
 ## References
 
-
+Doerr-Stevens,C. (2107). Embracing the Messiness of Research: Documentary Video Composing as Embodied, Critical Media Literacy, *English Journal*, 106.3 (2017): 56–62. 
 
 
