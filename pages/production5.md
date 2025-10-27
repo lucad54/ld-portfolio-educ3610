@@ -41,6 +41,10 @@ To conclude, this production reveals how one can “combine various modes of exp
 
 
 
+https://github.com/user-attachments/assets/5a68a07b-2228-4ecd-9b67-de304e267044
+
+
+
 ## Links
 
 Thinking Through Making - Ingold: [https://www.youtube.com/watch?v=Ygne72-4zyo](https://www.youtube.com/watch?v=Ygne72-4zyo)
