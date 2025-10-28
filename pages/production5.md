@@ -18,7 +18,7 @@ In class, we started by using ideation decks to begin learning about the theorie
 
 {% include feature/image.html objectid="imovie01" %}
 
-The image below was taken as I explored the tools of iMovie, from their text and titles options to transitions and templates. As seen above, the options were endless and diverse, allowing me to overlay text, images, and/or videos, which helps display historical facts, names, and dates. Transitions such as “fade to black” and “swipe” were effective in creating a sense of time passing, fitting perfectly with the theme of history. I also learned new editing terminology, such as “Ken Burns effect” and “timeline scrubbing”, describing how editors move, zoom, adjust, and visualize time and space within a video. These features made me realize how editing is its own form of media, where the meaning of a video can be completely changed as it is designed by pace, sound, and sequence. 
+The image below was taken as I explored the tools of iMovie, from their text and titles options to transitions and templates. As seen above, the options were endless and diverse, allowing me to overlay text, images, and/or videos, which helps display historical facts, names, and dates. Transitions such as “fade to black” and “swipe” were effective in creating a sense of time passing, fitting perfectly with the theme of history. I tried all the transitions available and in my "final" product you can see the ones I liked best, learning how each transition needs specific timing for it to work smoothly within the completed video. I also learned new editing terminology, such as “Ken Burns effect” and “timeline scrubbing”, describing how editors move, zoom, adjust, and visualize time and space within a video. These features made me realize how editing is its own form of media, where the meaning of a video can be completely changed as it is designed by pace, sound, and sequence. 
 
 {% include feature/image.html objectid="imovie02" %}
 
@@ -42,8 +42,6 @@ To conclude, this production revealed to me how one can “combine various modes
 
 
 {% include feature/video.html objectid="imovie" %}
-
-
 
 
 
