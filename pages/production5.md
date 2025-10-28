@@ -41,9 +41,9 @@ To conclude, this production revealed to me how one can “combine various modes
 
 
 
+{% include feature/video.html objectid="imovie" %}
 
 
-https://github.com/user-attachments/assets/02273eeb-dbcb-45a3-b524-089ae28864ec
 
 
 
