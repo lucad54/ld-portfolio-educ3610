@@ -10,7 +10,7 @@ credits: false
 
 {% include feature/jumbotron.html objectid="background01" %}
 
-{% include feature/nav-menu.html sections="Production 5 - On the Way to Video Inquiry;Links;References" %}
+{% include feature/nav-menu.html sections="Production 5 - On the Way to Video Inquiry;My Short History Video Project;Links;References" %}
 
 ## Production 5 - On the Way to Video Inquiry
 
