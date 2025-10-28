@@ -41,7 +41,11 @@ To conclude, this production revealed to me how one can “combine various modes
 
 
 
-https://github.com/user-attachments/assets/5a68a07b-2228-4ecd-9b67-de304e267044
+
+
+https://github.com/user-attachments/assets/02273eeb-dbcb-45a3-b524-089ae28864ec
+
+
 
 
 
