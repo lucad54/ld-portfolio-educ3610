@@ -10,27 +10,37 @@ credits: false
 
 {% include feature/jumbotron.html objectid="background01" %}
 
-{% include feature/nav-menu.html sections="Production 7;Links;References" %}
+{% include feature/nav-menu.html sections="Production 7;Video;References" %}
 
 ## Production 7
 
-This week's activity of starting up a website brought back some memories from a previous History course I took during my undergraduate. After reading the instructions and seeing the options for website builders, I began planning out what I was going to do and I turned to what I used before, Github. I quickly realized that working with GitHub again was going to be much more challenging than using a simpler drag-and-drop platform like Wix. Even though I have used Github in the past, enough time had passed that I also knew I had forgotten many of the basics. 
+For this production, I went back to one of my all-time favourite and significant video games to connect to, Battlefield 1. This game was one of the few video games that truly shaped my perspective on history and my understanding of learning. On the surface, it seems like just another shooter game, but it's much more, especially to me. Battlefield 1 set me on course and is the reason behind why I am so passionate about history and why it is now my teachable subject. The game, both through its story and online modes, especially with the Italian Fronts and the “Arditi” soldiers, is deeply personal to me and my history as well. To situate this in Jim Gee’s text, he would call games like this one, “World Games”, a simulation that allows players to live and learn from a complex system (p. 2).
 
-{% include feature/image.html objectid="proof01" %}
+In class, our group focused on Gee’s ideology of “distributed intelligence via the creation of smart tools”, which also fits Battlefield 1 perfectly. As I played the game, I again saw how it constantly spreads knowledge to it and its strength to connect the player to the world of the First World War. Like Gee argues,”Good video games distribute intelligence between a real-world person and artificially intelligent virtual characters”, and as I replay Battlefield 1, this is true (p. 4). When I play as an “Ardito” soldier, the game system's (maps, squadmates and tactical prompts, the sound, everything) works to simulate military cooperation. The player is surrounded by knowledge and is allowed to connect with other humans to experience teamwork and understand the scope of WWI.
 
-As I began to develop my website, I quickly encountered a number of problems. From random small errors to bigger problems like my webpage “not-exsiting” (as seen in the picture above). At first, this created a sense of frustration, especially when I couldn’t remember simple commands or how to find and fix problems in my repository. However, instead of giving up or turning to *AI*, I remembered that I had held onto an old tutorial worksheet from an undergraduate history course where I had first learned GitHub. After I, luckily, found the instructions and gave them a quick read through it all started to come back to me. 
+{% include feature/image.html objectid="group1" %}
 
-I began shifting from frustration to satisfaction, yet these “problems” reminded me that struggling is an important part of the learning process for everyone. However, once I got past those hurdles, I restarted appreciating the challenge and freedom GitHub offers. I created a minimalist information based website that will help document my work throughout EDUC 3610 course, with blue undertones to match the main background photo. During the process itself, the repository gave me “feedback”. With this, and through trial and error, I was able to find and fix incorrect coding, allowing me to learn from my mistakes independently. GitHub’s *freedom* supported my learning, as it forced me to take steps back and think on how I was to solve and understand my own webpage.
+What stands out the most  about Battlefield 1 is language and learning in context. Gee explains that “video games are simulations of experience” that “put language into the context of dialogue, experience, images, and actions” (p. 7). The game does not teach you the language of war through lists found in a textbook, but rather by immersing you (the player) into the battlefield itself. As you play, you hear yelling of all languages, hearing phrases like “no man’s land” or “Fiamme Nere”, and seeing scenes of tanks rolling through trenches and machine gun fire. All things I would learn in Grade 10 History, I learned from when I first played this in Grade 8 in 2016, and it stuck with me as I experienced these "historical terms" firsthand. Battlefield 1’s situated meaning allows learning through doing, emotions, and play.
 
-{% include feature/image.html objectid="proof02" %}
+The design of Battlefield 1 also aligns with the principles of being “pleasantly frustrating” and “the role of failure” in video games. Every mission created by the game is created so you DIE, and how Generals saw soldiers as replaceable, you understand that war is death and that there was no mission where death did not follow. This cycle of death and being reborn as a new soldier mimics the cycle of trial and error. It all comes together to allow players to understand and be situated in historical problem-solving from adapting tactics, learning maps and using available resources to be successful on the battlefield.
 
-Finally, this experience felt very similar to a classroom. It especially reminded me of the first day of grade 10 high school math after not having done any math since the previous year’s first semester. It was also similar because I was pushed to look at course material to re-learn and guide me, something I have not had to do in a long time. Overall, my experience of frustration did end up being rewarding, with my persistence to “power up” my new website on GitHub reminding me that learning never ends.
+{% include feature/image.html objectid="battle02" %}
+
+Another significant experience from Battlefield 1 is incidental learning. When I first launched this game back in 2016, I was not eagerly playing to learn dates, names, or battles, yet I quickly found myself sucked into the history of the game. I began researching battles and battalions found in the game. Also talking with my father about the Italian troops, learning about how my Great-Great Grandfather had fought alongside the Arditi at Caporetto and Monte Grappa (the same troops and battles depicted with the Game and story mode). The game sparked something inside me; it changed my perspective on history and made me feel connected to it for the first time. This is stealth learning at its best, as my curiosity and perhaps the curiosity of others peaked as loaded into a game for “fun”.
+
+Overall, Battlefield 1 is not just a “good game” or an "epistemic game”; it is an important piece of media and is a teacher. It is significant, and I believe authentically (with research done in another class (over 10-page essay)), puts players on the Frontline of history. It is the pinnacle of Gee’s vision of video games that learning should feel embodied, situated, social, and connected to identity. Playing as Italian Soldiers brought me not only to understand history but also to connect and feel it, something that is extremely rare and hard to find inside a lecture hall or classroom.
 
 
+## Video
 
+{% include feature/video.html objectid="battle01" %}
 
 ## References
 
 
+Gee, J.P. (2003/7). *Are Video Games Good for Learning?* In Worlds in Play: International Perspectives on Digital Game Research.
+
+
+Jim Gee Principles on Gaming: [https://www.youtube.com/watch?v=4aQAgAjTozk](https://www.youtube.com/watch?v=4aQAgAjTozk)
 
 
