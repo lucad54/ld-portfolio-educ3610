@@ -14,6 +14,11 @@ credits: false
 
 ## Production 6 -  Video Inquiry
 
+{% include feature/image.html objectid="idea01" %}
+{% include feature/image.html objectid="idea02" %}
+{% include feature/image.html objectid="idea03" %}
+
+
 ### Quick Comment on Ideation decks:
 
 For my first time creating a trailer style film, the professor’s ideation decks help set up what my final video creation will look like. They were almost like a creative compass, guiding me and grounding my ideas. My ideation deck helped me move from vague ideas and hopes for a final video to concrete concept plans. As someone whose academic life has been climatized to text-based and information/memorization heavy course work focused on history, this production was refreshing. It allowed me to be creative while following a guideline created by myself, an important shift from traditional research for myself and would be great for use in the classroom for students.
@@ -29,10 +34,6 @@ As Zseder (2016) argues, this production pedagogy allows us learners to become �
 Still, there were challenges, lighting varied amongst the locker room, outdoors and even varied among different arenas within the same building. Also, while I had permission to use footage, the players and I agreed to avoid listing names in a sequence as I had planned for a “montage-style” section of my production. I did not let these challenges sway me from what I wanted to create, so I spent time adjusting light for the clips to match a warmer feeling connecting again to Canadian culture and “nostalgia”. And for that section I really wanted to create, I still did. I just listed out each player's number as it still shows the story of the players on the team. As I worked through this I remembered that documentary work is “messy”, a process of constant negotiation between intention, ethics and the material I have (Doerr-Stevens, 2017, 56).
 
 To conclude, this production revealed how creativity and research are connected. I worked with iMovie to create a form of critical inquiry with multimodal production, following Doerr-Stevens, “using multimodal resources to create and negotiate alternative viewpoints” (p. 61). Even with my video focused on Hockey and the culture around it, my eyes were opened to how powerful films and videos are as a pedagogical tool for teaching history. As a teacher I can use it to give students a voice to represent themselves and challenge the narratives of education not only through words but through the multimodal opportunities of  film with sound, movement, editing and emotion. To sum, for me this project was not only personal but also significant for my future pedagogy as a teacher; one that is focused on learning as an embodied, cultural and creative act. 
-
-
-{% include feature/image.html objectid="imovie01" %}
-
 
 
 
