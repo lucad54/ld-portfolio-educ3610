@@ -14,27 +14,34 @@ credits: false
 
 ## Production 6 -  Video Inquiry
 
-In class, we started by using ideation decks to begin learning about the theories, techniques, themes, and editing of filmmaking. This was exciting and fun, and I am keeping this with me as I move forward working on Production 5. 
+### Quick Comment on Ideation decks:
 
-With this in mind, I decided to use iMovie for Production 5: *On the Way to Video Inquiry*, a program I had some familiarity with before today, but had not used or explored for quite some time (over 8-9 years). Returning to it was challenging but familiar, but I stayed strong as I wanted to deepen my understanding of its editing tools and reimagine it for how such software could be used in historical and geographical education in the classroom. To test this, I created a short but heavily edited sideshow-style documentary, as seen below, titled “The History of the Land We Live On”. As the text states, “documentary DV promotes empowered practices of critical media literacy essential for navigating an increasingly digital yet culturally divided world” (Doerr-Stevens, p. 61). This experiment reveals how iMovie’s potential to make progress and allow for digital storytelling can make history more engaging, accessible, and multimodal for classes and students. 
+For my first time creating a trailer style film, the professor’s ideation decks help set up what my final video creation will look like. They were almost like a creative compass, guiding me and grounding my ideas. My ideation deck helped me move from vague ideas and hopes for a final video to concrete concept plans. As someone whose academic life has been climatized to text-based and information/memorization heavy course work focused on history, this production was refreshing. It allowed me to be creative while following a guideline created by myself, an important shift from traditional research for myself and would be great for use in the classroom for students.
+
+### Comments on Video Creation:
+
+For this production I decided to move away from history narratives and connect to something closer to my culture and hobbies. As my ideation deck shows, I worked on and created a trailer-style video for a local men’s hockey league that I am personally connected to. Hockey has always surrounded me in my life, whether I was playing it, watching my cousins play or even watching the pros on the TV. It's a part of my, and many (if not all) Canadians, identity; as a fan, player and now a men’s league coach with my friends. So, using this as my base for my film allowed for a deep authentic learning as I filmed, edited and completed production. I connected to Doerr-Stevens’ (2017) idea of embodied inquiry, as I placed my body and experiences into the center of the creative process. My filming was not simple and fast, I had to go back through my “archives” of clips and work together with fans in the stands. I wanted diverse perspectives, culture, goals and celebration all packed into my final creation. Following again Doerr-Stevens notes that video composing invites us to “a multi-sensorial process of investigation” that traditional tests and writing assignments cannot capture and I can vouch for (pp. 57).
+
+Moving on, the editing process was where I felt my learning grow the most. Although I have used iMovie before, coming back to it almost nine years later, with hopes to dive deeper into the system than before, was a challenge. Still, it exposed me to how layered and expressive digital media and the editing process is for video production. I brought over the play from the previous production and continued to experiment with new types of cuts, transitions and especially with sound layering (very hard). Everything I did, every clip, cut and sound used was planned with my original ideation deck to create an environment similar to being at a live hockey game. Even the songs I selected are culturally connected with hockey; “Lay it on the Line” by Triumph from a 2024/2025 season stanley cup commercial, “Thunderstruck” and “Howlin for You” from a childhood NHL video game “*NHL SLAPSHOT*”. All these tracks were more than filling the ambience of my video, it connected my production to the collective memories of childhood and Canadian Hockey.
+
+As Zseder (2016) argues, this production pedagogy allows us learners to become “producers of meaning” rather than passive consumers. It is creating spaces for “student-produced case studies” that are displaying our personal connections and perspectives. With the help from friends and fans I was able to capture different points of view and I was then able to edit these clips into a video of my “own”. It felt like an act of assembling emotion, voices and energy into something bigger than a “sport”.
+
+Still, there were challenges, lighting varied amongst the locker room, outdoors and even varied among different arenas within the same building. Also, while I had permission to use footage, the players and I agreed to avoid listing names in a sequence as I had planned for a “montage-style” section of my production. I did not let these challenges sway me from what I wanted to create, so I spent time adjusting light for the clips to match a warmer feeling connecting again to Canadian culture and “nostalgia”. And for that section I really wanted to create, I still did. I just listed out each player's number as it still shows the story of the players on the team. As I worked through this I remembered that documentary work is “messy”, a process of constant negotiation between intention, ethics and the material I have (Doerr-Stevens, 2017, 56).
+
+To conclude, this production revealed how creativity and research are connected. I worked with iMovie to create a form of critical inquiry with multimodal production, following Doerr-Stevens, “using multimodal resources to create and negotiate alternative viewpoints” (p. 61). Even with my video focused on Hockey and the culture around it, my eyes were opened to how powerful films and videos are as a pedagogical tool for teaching history. As a teacher I can use it to give students a voice to represent themselves and challenge the narratives of education not only through words but through the multimodal opportunities of  film with sound, movement, editing and emotion. To sum, for me this project was not only personal but also significant for my future pedagogy as a teacher; one that is focused on learning as an embodied, cultural and creative act. 
+
 
 {% include feature/image.html objectid="imovie01" %}
 
-The image below was taken as I explored the tools of iMovie, from their text and titles options to transitions and templates. As seen above, the options were endless and diverse, allowing me to overlay text, images, and/or videos, which helps display historical facts, names, and dates. Transitions such as “fade to black” and “swipe” were effective in creating a sense of time passing, fitting perfectly with the theme of history. I tried all the transitions available and in my "final" product you can see the ones I liked best, learning how each transition needs specific timing for it to work smoothly within the completed video. I also learned new editing terminology, such as “Ken Burns effect” and “timeline scrubbing”, describing how editors move, zoom, adjust, and visualize time and space within a video. These features made me realize how editing is its own form of media, where the meaning of a video can be completely changed as it is designed by pace, sound, and sequence. 
-
-I did not work too much with voice; I still tried working a bit with sounds, more specifically music, as shown below connecting with apple music. I did slightly test out how to record voiceover directly into the software and played around with the volume levels using the audio mixer. However, I focused more on iMovie’s “fade in” and “fade out” between different sounds and songs, which would help with smooth transitions between narration and background music. I first forgot how to do this, but a quick google search and I remembered everything I needed to know, from fading to how to even change the pitch of the music. I also realized how important it was to record in a quiet space with minimal background noise and maintain a consistent voice level and distance from the microphone. This experience ultimately helped me appreciate how sound design is important to shape meaning, especially in multimodal texts, tone, rhythm, and silence as they can all communicate just as powerfully as words. 
-
-Next, I tested some special effects and filters to help understand how a visual tone contributes to storytelling. The colour palette tool gave me the liberty to control the colour and feel of the video and photos I used, allowing me to create filters like “black & white” and “aged films” to create an archival feel, reinforcing the historical theme of my short project. The somewhat pre-edited clips and images I used helped me with this process. However, while I started to notice the possibilities iMovie had, I also saw the limits. I had freedom to control colour and saturation; however restricted users' creativity to built-in transitions. These “system rules” of iMovie make some parts of editing easier for beginners and some harder for veteran editors, without much tutorial provided by the software (other than short discriptions when hovering over a tool, as seen in the image below), it challenges beginners and re-learners to find their own way. 
-
-Finally, throughout the editing process, I learned more and more, but also avoided coming face-to-face with many production challenges. I did not have to worry about lighting as I used mostly used images and sounds professionally produced and pre-edited. Still, I did add one personal image and played around with the *aesthetics* and colour grain of these videos I used and photos I added, also testing and editing around the music for the voiceover of my more than raspy (sick) voice. However, in future filming, specifically these upcoming weeks in class, my group and I would need to pay close attention to these aspects of editing and maybe even incorporate some of these flaws into our final video production. I took this opportunity to watch some videos, including this amazing tutorial by Jordan Morrison ([https://www.youtube.com/watch?v=Ygne72-4zyo](https://www.youtube.com/watch?v=z6hwAJ-3mCE)), to be prepared and be able to contribute to editing when the time comes. 
-To conclude, this production revealed to me how one can “combine various modes of expression (visuals, sound, narrative, etc.) into a single digital media text with focus and purpose” (Doerr-Stevens, 56). Playing around with iMovie again after so many years was not only a great technical refresher but also allowed me to learn new techniques as I connected to my groups and the Professor’s ideation decks. Overall, iMovie, even with its limits and lack of guidance, worked great for me (a beginner) and can be a great tool for students to critically assemble, create, and represent the past using multimedia
-
-
-### My Short History Video Project
 
 
 
-{% include feature/video.html objectid="imovie" %}
+
+### My Video Project
+
+
+
+{% include feature/video.html objectid="imovie2" %}
 
 
 
@@ -42,12 +49,12 @@ To conclude, this production revealed to me how one can “combine various modes
 
 ## Links
 
-Thinking Through Making - Ingold: [https://www.youtube.com/watch?v=Ygne72-4zyo](https://www.youtube.com/watch?v=Ygne72-4zyo)
 
-Jordan Morrison's Youtube Tutorial on iMovie: [https://www.youtube.com/watch?v=z6hwAJ-3mCE](https://www.youtube.com/watch?v=z6hwAJ-3mCE)
 
 ## References
 
-Doerr-Stevens,C. (2107). Embracing the Messiness of Research: Documentary Video Composing as Embodied, Critical Media Literacy, *English Journal*, 106.3 (2017): 56–62. 
+Doerr-Stevens,C. (2017). Embracing the Messiness of Research: Documentary Video Composing as Embodied, Critical Media Literacy, *English Journal*, 106.3 (2017): 56–62. 
+
+Zseder, N. (2016). Production pedagogy: A student-produced case study. *New Media Modules*.
 
 
