@@ -57,6 +57,6 @@ Jordan Morrison's Youtube Tutorial on iMovie: [https://www.youtube.com/watch?v=z
 
 ## References
 
-Doerr-Stevens,C. (2107). Embracing the Messiness of Research: Documentary Video Composing as Embodied, Critical Media Literacy, *English Journal*, 106.3 (2017): 56–62. 
+Doerr-Stevens,C. (2017). Embracing the Messiness of Research: Documentary Video Composing as Embodied, Critical Media Literacy, *English Journal*, 106.3 (2017): 56–62. 
 
 
