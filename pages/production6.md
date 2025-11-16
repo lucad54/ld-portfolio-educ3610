@@ -14,7 +14,11 @@ credits: false
 
 ## Production 6 -  Video Inquiry
 
-{% include feature/image.html objectid="idea01" height="48" width="48" %} {% include feature/image.html objectid="idea02" height="48" width="48" %} {% include feature/image.html objectid="idea03" height="48" width="48" %}
+<a href="url"><img src="https://lucad54.github.io/ld-portfolio-educ3610/objects/idea2.jpg" align="left" height="48" width="48" ></a>
+
+{% include feature/image.html objectid="idea01" height="48" width="48" %}
+
+{% include feature/image.html objectid="idea02" height="48" width="48" %} {% include feature/image.html objectid="idea03" height="48" width="48" %}
 
 
 ### Quick Comment on Ideation decks:
