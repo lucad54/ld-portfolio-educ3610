@@ -10,7 +10,7 @@ credits: false
 
 {% include feature/jumbotron.html objectid="background01" %}
 
-{% include feature/nav-menu.html sections="Production 6 - Video Inquiry;My Video Project;Links;References" %}
+{% include feature/nav-menu.html sections="Production 6 - Video Inquiry;My Video Project; Ideation Cards; Links;References" %}
 
 ## Production 6 -  Video Inquiry
 
@@ -35,11 +35,6 @@ Still, there were challenges, lighting varied amongst the locker room, outdoors 
 To conclude, this production revealed how creativity and research are connected. I worked with iMovie to create a form of critical inquiry with multimodal production, following Doerr-Stevens, “using multimodal resources to create and negotiate alternative viewpoints” (p. 61). Even with my video focused on Hockey and the culture around it, my eyes were opened to how powerful films and videos are as a pedagogical tool for teaching history. As a teacher I can use it to give students a voice to represent themselves and challenge the narratives of education not only through words but through the multimodal opportunities of  film with sound, movement, editing and emotion. To sum, for me this project was not only personal but also significant for my future pedagogy as a teacher; one that is focused on learning as an embodied, cultural and creative act. 
 
 
-{% include feature/image.html objectid="idea01" height="48" width="48" %}
-
-{% include feature/image.html objectid="idea02" height="48" width="48" %} 
-
-{% include feature/image.html objectid="idea03" height="48" width="48" %}
 
 ### My Video Project
 
@@ -48,6 +43,15 @@ To conclude, this production revealed how creativity and research are connected.
 {% include feature/video.html objectid="imovie2" %}
 
 
+
+
+## Ideation Cards
+
+{% include feature/image.html objectid="idea01" height="48" width="48" %}
+
+{% include feature/image.html objectid="idea02" height="48" width="48" %} 
+
+{% include feature/image.html objectid="idea03" height="48" width="48" %}
 
 
 
