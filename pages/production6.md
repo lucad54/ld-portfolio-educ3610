@@ -14,11 +14,7 @@ credits: false
 
 ## Production 6 -  Video Inquiry
 
-<a href="url"><img src="https://lucad54.github.io/ld-portfolio-educ3610/objects/idea1.jpg" align="left" height="148" width="148" ></a> <a href="url"><img src="https://lucad54.github.io/ld-portfolio-educ3610/objects/idea2.jpg" align="center" height="148" width="148" ></a> <a href="url"><img src="https://lucad54.github.io/ld-portfolio-educ3610/objects/idea3.jpg" align="right" height="148" width="148" ></a>
-
-{% include feature/image.html objectid="idea01" height="48" width="48" %}
-
-{% include feature/image.html objectid="idea02" height="48" width="48" %} {% include feature/image.html objectid="idea03" height="48" width="48" %}
+<a href="url"><img src="https://lucad54.github.io/ld-portfolio-educ3610/objects/idea1.jpg" align="left" height="548" width="548" ></a> <a href="url"><img src="https://lucad54.github.io/ld-portfolio-educ3610/objects/idea2.jpg" align="center" height="548" width="548" ></a> <a href="url"><img src="https://lucad54.github.io/ld-portfolio-educ3610/objects/idea3.jpg" align="right" height="548" width="548" ></a>
 
 
 ### Quick Comment on Ideation decks:
@@ -38,7 +34,11 @@ Still, there were challenges, lighting varied amongst the locker room, outdoors 
 To conclude, this production revealed how creativity and research are connected. I worked with iMovie to create a form of critical inquiry with multimodal production, following Doerr-Stevens, “using multimodal resources to create and negotiate alternative viewpoints” (p. 61). Even with my video focused on Hockey and the culture around it, my eyes were opened to how powerful films and videos are as a pedagogical tool for teaching history. As a teacher I can use it to give students a voice to represent themselves and challenge the narratives of education not only through words but through the multimodal opportunities of  film with sound, movement, editing and emotion. To sum, for me this project was not only personal but also significant for my future pedagogy as a teacher; one that is focused on learning as an embodied, cultural and creative act. 
 
 
+{% include feature/image.html objectid="idea01" height="48" width="48" %}
 
+{% include feature/image.html objectid="idea02" height="48" width="48" %} 
+
+{% include feature/image.html objectid="idea03" height="48" width="48" %}
 
 ### My Video Project
 
