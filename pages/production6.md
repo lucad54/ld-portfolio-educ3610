@@ -14,9 +14,7 @@ credits: false
 
 ## Production 6 -  Video Inquiry
 
-{% include feature/image.html objectid="idea01" align="left" height="48" width="48" %}
-{% include feature/image.html objectid="idea02" %}
-{% include feature/image.html objectid="idea03" %}
+{% include feature/image.html objectid="idea01" height="48" width="48" %} {% include feature/image.html objectid="idea02" height="48" width="48" %} {% include feature/image.html objectid="idea03" height="48" width="48" %}
 
 
 ### Quick Comment on Ideation decks:
