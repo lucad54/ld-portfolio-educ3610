@@ -14,7 +14,7 @@ credits: false
 
 ## Production 6 -  Video Inquiry
 
-{% include feature/image.html objectid="idea01" %}
+{% include feature/image.html objectid="idea01" align="left" height="48" width="48" %}
 {% include feature/image.html objectid="idea02" %}
 {% include feature/image.html objectid="idea03" %}
 
