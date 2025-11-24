@@ -14,7 +14,7 @@ credits: false
 
 ## Production 6 -  Video Inquiry
 
-<a href="url"><img src="https://lucad54.github.io/ld-portfolio-educ3610/objects/idea1.jpg" align="left" height="225" width="225" ></a> <a href="url"><img src="https://lucad54.github.io/ld-portfolio-educ3610/objects/idea2.jpg" align="center" height="220" width="220" ></a> <a href="url"><img src="https://lucad54.github.io/ld-portfolio-educ3610/objects/idea3.jpg" align="right" height="210" width="210" ></a>
+<a href="url"><img src="https://lucad54.github.io/ld-portfolio-educ3610/objects/idea1.jpg" align="left" height="325" width="325" ></a> <a href="url"><img src="https://lucad54.github.io/ld-portfolio-educ3610/objects/idea2.jpg" align="center" height="320" width="320" ></a> <a href="url"><img src="https://lucad54.github.io/ld-portfolio-educ3610/objects/idea3.jpg" align="right" height="310" width="310" ></a>
 
 
 
