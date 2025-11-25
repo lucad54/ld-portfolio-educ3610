@@ -10,9 +10,9 @@ credits: false
 
 {% include feature/jumbotron.html objectid="background01" %}
 
-{% include feature/nav-menu.html sections="Production 6 - Video Inquiry;My Video Project; Ideation Cards; Links;References" %}
+{% include feature/nav-menu.html sections="Production 6: Video Works; My Video Project; Ideation Cards; Links;References" %}
 
-## Production 6 -  Video Inquiry
+## Production 6: Video Works
 
 <a href="url"><img src="https://lucad54.github.io/ld-portfolio-educ3610/objects/idea1.jpg" align="left" height="325" width="325" ></a> <a href="url"><img src="https://lucad54.github.io/ld-portfolio-educ3610/objects/idea2.jpg" align="center" height="320" width="320" ></a> <a href="url"><img src="https://lucad54.github.io/ld-portfolio-educ3610/objects/idea3.jpg" align="right" height="310" width="310" ></a>
 
