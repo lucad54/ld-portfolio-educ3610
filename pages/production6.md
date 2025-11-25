@@ -20,7 +20,7 @@ credits: false
 
 ### Quick Comment on Ideation decks:
 
-For my first time creating a trailer style film, the professor’s ideation decks help set up what my final video creation looked like. They were basically a creative compass, guiding me and grounding my ideas. My ideation deck helped me move from vague ideas and hopes for a final video to concrete concept plans. As someone whose academic life has been climatized to text-based and information/memorization heavy course work focused on history, this production was refreshing. It allowed me to be creative while following a guideline created by myself, an important shift from traditional research for myself and would be great for use in the classroom for students.
+For my first time creating a trailer style film, the professor’s ideation decks help set up what my final video creation looked like. They were basically a creative compass, guiding me and grounding my ideas. My ideation deck helped me move from vague ideas and hopes for a final video to concrete concept plans. With an academic career full of text-based and information/memorization heavy course work focused on history, this production was refreshing. It allowed me to be creative while following a guideline created by myself, an important shift from traditional research for myself and would be great for use in the classroom for students.
 
 ### Comments on Video Creation:
 
