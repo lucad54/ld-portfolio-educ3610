@@ -1,0 +1,46 @@
+---
+title: Intellectual Productions
+layout: about
+permalink: /production9.html
+# include CollectionBuilder info at bottom
+credits: false
+# Edit the markdown on in this file to describe your collection
+# Look in _includes/feature for options to easily add features to the page
+---
+
+{% include feature/jumbotron.html objectid="background01" %}
+
+{% include feature/nav-menu.html sections="Production 9 - Twine;Video Game;References" %}
+
+## Production 9 - Twine
+
+For this production, I went back to one of my all-time favourite and significant video games to connect to, Battlefield 1. This game was one of the few video games that truly shaped my perspective on history and my understanding of learning. On the surface, it seems like just another first person shooter game, but it's much more, especially to me. Battlefield 1 set me on course and is the reason behind why I am so passionate about history and why it is now my teachable subject. The game, both through its story and online modes, especially with the Italian Fronts and the “Arditi” soldiers, is deeply personal to me and my history as well. To situate this in Jim Gee’s text, he would call games like this one, “World Games”, a simulation that allows players to live and learn from a complex system (Gee, 2003/7, p. 2).
+
+In class, our group focused on Gee’s ideology of “distributed intelligence via the creation of smart tools”, which also fits Battlefield 1 perfectly. As I played the game, I again saw how it constantly spreads knowledge to it and its strength to emerge the player to the exprience of the First World War. Like Gee argues,”Good video games distribute intelligence between a real-world person and artificially intelligent virtual characters”, and as I replay Battlefield 1, this is true (Gee, 2003/7, p. 4). When I play as an “Ardito” soldier, the game system's (maps, squadmates and tactical prompts, the sound, everything) works to simulate military cooperation. I, as the player, am surrounded by knowledge and is able to connect with other humans to experience teamwork and understand the scope of WWI, as a quote from the game states: "We are those people".
+
+{% include feature/image.html objectid="group01" %}
+
+What stands out the most  about Battlefield 1 is language and learning in context. Gee explains that “video games are simulations of experience” that “put language into the context of dialogue, experience, images, and actions” (Gee, 2003/7, p. 7). The game does not teach you the history and exprience of war through lists found in a textbook, but rather by immersing you (the player) into the battlefield itself. As you load into the game for the first time you follow the story of a man expriencing PTSD at home but taken back to the battlefield. In this mission and everytime you play games you are surrounded by yelling of all languages of the war, hearing and learning phrases like “no man’s land” or “Fiamme Nere”, and seeing scenes of tanks rolling through trenches, planes flying and defeaning machine gun fire. All these things I was "experiencing firsthand" in the game would be *taught* again in my Grade 10 History class. Most significantly, I first played this game back in Grade 8, in 2016, and whats amazing is that the things I was *taught* stuck with me more than the information I learned in traditional class, as Battlefield 1’s situated meaning allows learning through doing, emotions, and play.
+
+Furthermore, the design of Battlefield 1 also aligns with the principles of being “pleasantly frustrating” and “the role of failure” in video games (Gee, 2003/7). Every mission created by the game is created so you DIE (as shown in the video at the bottom), exposing players to how Generals saw soldiers as replaceable and that war is death and that there was no mission where death did not follow. This cycle of death and being reborn as a new soldier mimics the cycle of trial and error, another theory we talked about in class. All these quirks and details of Battlefield 1 come together to allow players to understand and be situated in historical problem-solving as they are adapting tactics, learning maps and using available resources to be successful on the battlefield as real soldiers once had to over 100 years ago.
+
+{% include feature/image.html objectid="battle02" %}
+
+Another significant experience from Battlefield 1 is incidental learning. When I first launched this game back in 2016, I was not eagerly playing to learn dates, names, or battles, yet I quickly found myself sucked into the historical aspects of the game. On top of the great information given by the game, I began researching battles and battalions found in the game. Also talking with my father about the Italian troops, learning about how my Great-Great Grandfather had fought alongside the Arditi at Caporetto and Monte Grappa (the same troops and battles depicted within the Game). The game sparked something inside me; it changed my perspective on history and made me feel connected to it for the first time. This is stealth learning at its best, as my curiosity (and perhaps the curiosity of others) peaked as loaded into a game for “fun” and set the course of my career.
+
+Overall, Battlefield 1 is not just a “good game” or an "epistemic game”; it is an important piece of media and is a teacher. It is significant, and I believe authentically puts players on the Frontline of history, through multimodal means of sound, the beuatiful soundtrack, visuals and textual information. It is the pinnacle of Gee’s vision of video games that can allow learning, as it makes player feel embodied, situated, social, and connected to the identity of a WWI soldier. More specifically for me, playing as an Italian Soldier brought me not only to understand history but also to connect and experience family history, something that is hard to find/experience inside a lecture hall or classroom.
+
+
+## Video Game
+
+{% include feature/video.html objectid="battle01" %}
+
+## References
+
+
+Gee, J.P. (2003/7). *Are Video Games Good for Learning?* In Worlds in Play: International Perspectives on Digital Game Research.
+
+
+Jim Gee Principles on Gaming: [https://www.youtube.com/watch?v=4aQAgAjTozk](https://www.youtube.com/watch?v=4aQAgAjTozk)
+
+
