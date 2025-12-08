@@ -22,7 +22,7 @@ Finally, I found my game, *KILLED IN ACTION*, to be a great display of systems t
 
 Overall, production 9 was great and exciting. Creating a historical video game with Twine provided me with an opportunity to learn about how I could introduce and utilize multimodal pedagogies in my future classrooms. Using sounds, image and text to create my production also furthered my understanding of Gee and his principles as I set out to create a *good game*.
 
-{% include feature/image.html objectid="battle02" %}
+{% include feature/image.html objectid="twine01" %}
 
 
 ## Video Game
