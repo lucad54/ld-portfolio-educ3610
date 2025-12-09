@@ -27,9 +27,9 @@ Overall, production 9 was great and exciting. Creating a historical video game w
 
 ## Video Game
 
-<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+<svg width="100" height="100" xmlns="file:///C:/Users/Luca/Downloads/KIA.html">
 <foreignObject width="100" height="100">
-    <div xmlns="http://www.w3.org/1999/xhtml">
+    <div xmlns="file:///C:/Users/Luca/Downloads/KIA.html">
         <ul>
             <li>text</li>
         </ul>
@@ -38,7 +38,7 @@ Overall, production 9 was great and exciting. Creating a historical video game w
 </foreignObject>
 </svg>
 
-![](./path/example.svg)
+![](file:///C:/Users/Luca/Downloads/KIA.html.svg)
 
 ## References
 
