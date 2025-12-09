@@ -27,18 +27,7 @@ Overall, production 9 was great and exciting. Creating a historical video game w
 
 ## Video Game
 
-<svg width="100" height="100" xmlns="file:///C:/Users/Luca/Downloads/KIA.html">
-<foreignObject width="100" height="100">
-    <div xmlns="file:///C:/Users/Luca/Downloads/KIA.html">
-        <ul>
-            <li>text</li>
-        </ul>
-        <!-- Other embed HTML element/text into SVG -->
-    </div>
-</foreignObject>
-</svg>
-
-![](file:///C:/Users/Luca/Downloads/KIA.html.svg)
+{% include feature/image.html objectid="remoteWebsite" %}
 
 ## References
 
